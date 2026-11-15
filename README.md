@@ -1,42 +1,46 @@
+
 # ✿ Hi, I'm Arifah Nadiah!
 
-### Computer Science Student | Aspiring Developer
+**Computer Science Student | Aspiring Developer**
 
-I'm **Arifah Nadiah binti Shawaluddin**, a Computer Science student at **Universiti Teknologi MARA (UiTM) Shah Alam**. I enjoy exploring technology, learning new skills, and creating projects that combine creativity and problem-solving.
+I'm **Arifah Nadiah binti Shawaluddin**, a Computer Science student at **Universiti Teknologi MARA (UiTM) Shah Alam**. I enjoy exploring technology, learning new skills, and building creative projects that combine innovation and problem-solving.
 
----
 
-### ♡ About Me
+## ♡ About Me
 
-- 🎓 Studying **Computer Science** at UiTM Shah Alam
-- 📚 Currently learning **Special Topics in Computer Science**
-- 🌱 Always exploring new technologies and improving my skills
+- 🎓 Computer Science student at UiTM Shah Alam
+- 📚 Currently studying Special Topics in Computer Science
+- 🌱 Passionate about learning and exploring new technologies
+- ✨ Interested in creating meaningful and creative solutions
 
-### 🛠️ Skills & Tools
+
+## 🛠️ Skills & Tools
 
 **Programming Languages**
 - Python
 - Java
+- JavaScript
 - HTML
 - CSS
-- JavaScript
+- SQL
 
 **Areas of Interest**
 - Machine Learning
+- Artificial Intelligence
 - UI/UX Design
 - Web Development
 - Gamification
 
-### ✧ Featured Projects
+## ✧ Featured Projects
 
-**Rapid KL On-Demand – UI/UX Improvement**
+### Rapid KL On-Demand — UI/UX Improvement
+🔗 [View Project Repository](https://github.com/arifahnadiah2004-dev/rapid-kl-ondemand-uiux-improvement)
 
-A UI/UX improvement project focused on enhancing the Rapid KL On-Demand application through clearer map displays, simplified location selection, improved route visualisation, and a more user-friendly booking experience.
 
-### ☁️ Let's Connect!
+## ☁️ Let's Connect!
 
-- 📧 Email: [arifahnadiah2004@gmail.com](mailto:arifahnadiah2004@gmail.com)
-- 💼 LinkedIn: not yet, soon!
+- 📧 **Email:** [arifahnadiah2004@gmail.com](mailto:arifahnadiah2004@gmail.com)
+- 💼 **LinkedIn:** Coming soon!
 
 ---
 
